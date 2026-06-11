@@ -1,1 +1,1 @@
-# doomsday_trainer
+# Doomsday Trainer
