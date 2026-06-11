@@ -17,6 +17,7 @@ Accuracy and speed statistics
 Progress tracking
 Step-by-step learning mode
 Historical and future date support
+
 What is the Doomsday Algorithm?
 
 The Doomsday Algorithm, developed by John Horton Conway, is a mental calculation method for determining the day of the week for any given date.
